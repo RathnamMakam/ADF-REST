@@ -11,6 +11,6 @@
     </startup>
   </adf-adfm-config>
   <adf:adf-properties-child xmlns="http://xmlns.oracle.com/adf/config/properties">
-    <adf-property name="adfAppUID" value="adf-rest.com.swaram.adf.rest"/>
+    <adf-property name="adfAppUID" value="ADF-REST.com.swaram.restmodel"/>
   </adf:adf-properties-child>
 </adf-config>

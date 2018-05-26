@@ -68,12 +68,12 @@
       <string v="oracle.bm.commonIde.data.project.ModelerProjectSettings/modelersContentSet"/>
       <string v="oracle.adfdtinternal.model.ide.settings.ADFMSettings/adfmContentSet"/>
    </list>
-   <value n="defaultPackage" v="com.swaram.adf.rest.view"/>
+   <value n="defaultPackage" v="com.swaram.restmodel.view"/>
    <hash n="oracle.ide.model.DependencyConfiguration">
       <list n="dependencyList">
          <hash>
             <hash n="dependable">
-               <url n="sourceOwnerURL" path="../adf-rest.jws"/>
+               <url n="sourceOwnerURL" path="../ADF-REST.jws"/>
                <url n="sourceURL" path="../Model/Model.jpr"/>
             </hash>
             <value n="recognizerId" v="oracle.jdeveloper.library"/>
@@ -96,7 +96,7 @@
    </hash>
    <hash n="oracle.jdeveloper.deploy.dt.DeploymentProfiles">
       <hash n="profileDefinitions">
-         <hash n="adf-rest_ViewController_webapp">
+         <hash n="ADF-REST_ViewController_webapp">
             <hash n="appletArchives"/>
             <hash n="appletFiles">
                <value n="autoInclude" v="true"/>
@@ -107,7 +107,7 @@
             <hash n="archiveOptions">
                <value n="hasManifest" v="false"/>
             </hash>
-            <value n="enterpriseAppName" v="adf-rest_ViewController_webapp"/>
+            <value n="enterpriseAppName" v="ADF-REST_ViewController_webapp"/>
             <hash n="fileGroups">
                <list n="groups">
                   <hash>
@@ -166,18 +166,18 @@
                   </hash>
                </list>
             </hash>
-            <url n="jarURL" path="deploy/adf-rest_ViewController_webapp.war"/>
+            <url n="jarURL" path="deploy/ADF-REST_ViewController_webapp.war"/>
             <value n="profileClass" v="oracle.jdeveloper.deploy.war.WarProfile"/>
-            <value n="profileName" v="adf-rest_ViewController_webapp"/>
+            <value n="profileName" v="ADF-REST_ViewController_webapp"/>
          </hash>
       </hash>
       <list n="profileList">
-         <string v="adf-rest_ViewController_webapp"/>
+         <string v="ADF-REST_ViewController_webapp"/>
       </list>
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
-      <value n="j2eeWebAppName" v="adf-rest-ViewController-webapp"/>
-      <value n="j2eeWebContextRoot" v="adf-rest-ViewController-context-root"/>
+      <value n="j2eeWebAppName" v="ADF-REST-ViewController-webapp"/>
+      <value n="j2eeWebContextRoot" v="ADF-REST-ViewController-context-root"/>
    </hash>
    <hash n="oracle.jdeveloper.model.PathsConfiguration">
       <hash n="javaContentSet">
